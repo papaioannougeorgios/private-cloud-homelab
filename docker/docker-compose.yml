@@ -29,5 +29,5 @@ services:
 			- MYSQL_HOST=db
 
 volumes:
-	dbdata:
+	db_data:
 	nextcloud_data:
